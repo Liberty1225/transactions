@@ -1,0 +1,5 @@
+.idea/
+venv/
+flask_crud.rar
+app/__pyache__/
+migrations/__pyache__/

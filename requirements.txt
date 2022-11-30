@@ -1,0 +1,7 @@
+flask~=2.2.2
+flask-sqlalchemy
+flask-wtf
+flask-migrate
+Flask-Bcrypt
+flask-login
+WTForms~=3.0.1
